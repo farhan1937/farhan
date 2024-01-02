@@ -1,4 +1,10 @@
 h3{
     color: tomato;
     background-color: blueviolet;
+    margin: 5px;
+}
+p{
+    color: antiquewhite;
+    background-color: yellowgreen;
+    padding: 10px;
 }
